@@ -1,4 +1,3 @@
-Robot bits for making a cute robot
+Robot bits for making cute robots
 
-https://rosmo.io/
-
+https://rosmo-robot.github.io/
