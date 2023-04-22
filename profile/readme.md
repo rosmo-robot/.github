@@ -1,3 +1,3 @@
-Robot bits for making cute robots
+Open hardware Robot bits 
 
 https://rosmo-robot.github.io/
